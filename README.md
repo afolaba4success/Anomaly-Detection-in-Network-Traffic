@@ -8,6 +8,7 @@ The aim of this project is to train machine learning models that can detect anom
 The dataset used for this project is the CICIDS2017 dataset.
 **Description:**
 This dataset was created by the Canadian Institute for Cybersecuirty at the University of New Brunswick. It consists of a 5-day data stream on a network created by computers using up-to-date operating systems.
+The folder consists of 8 files consisting of cyber attacks such as Dos, DDos, Bot, PortScan, Hulk, GoldenEye, Heartbleed, etc. 
 
 **Source:**
 Kaggle - https://www.kaggle.com/datasets/cicdataset/cicids2017
